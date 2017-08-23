@@ -1,6 +1,6 @@
 /* eslint-disable new-cap */
 import React from "react";
-import PropTypes from 'prop-types';
+import PropTypes from "prop-types";
 import Radium from "radium";
 
 const Cell = (props) => {
